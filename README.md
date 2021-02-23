@@ -9,3 +9,5 @@ Paper beats Rock and loses to Scissors;
 Scissors beats Paper and loses to Rock.
 
 So, to win the player needs to choose an object that beats the computer's choice.
+
+The game was made in Brazilian Portuguese, but I bet we can translate it into English too.
